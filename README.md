@@ -1,3 +1,4 @@
 ### Programmers
-#### Programmers 1 ~ 5 단계 까지의 알고리즘 연습
-#### 사용 언어 : Python , C++, SQL
+#### Programmers 코딩테스트 연습을 위해 만든 레파지토리입니다.
+##### 사용 언어 : Python , C++, SQL
+##### 코딩 테스트 응시 기업 : 한화시스템, 한국조폐공사, MG새마을금고
